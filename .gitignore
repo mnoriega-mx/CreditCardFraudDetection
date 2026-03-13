@@ -1,6 +1,18 @@
+# Conda environment internals
+bin/
+lib/
+include/
+conda-meta/
+share/
+ssl/
+man/
+
 # Data files (too large for GitHub)
 data/
 *.csv
+
+# Reports/outputs (generated at runtime)
+reports/
 
 # Jupyter
 .ipynb_checkpoints/
