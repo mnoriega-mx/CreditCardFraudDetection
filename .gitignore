@@ -1,3 +1,6 @@
+# Project guide PDF
+*.pdf
+
 # Claude Code internals
 .claude/
 CLAUDE.md
