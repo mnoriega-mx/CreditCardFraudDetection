@@ -6,6 +6,16 @@
 
 ---
 
+## Team members
+
+- [Fedotova Tetiana](https://github.com/mesopotania) (20250781)
+- [Freund Janna](https://github.com/jannafr) (20250782)
+- [Antonio Gutierrez Mireles](https://github.com/tonogutierrez) (20250309)
+- [Noriega Chapa Mauricio](https://github.com/mnoriega-mx) (20250312)
+- [Ramirez Avila Gael](https://github.com/gaelramav-debug) (20250525)
+
+---
+
 ## Project Overview
 
 This project applies data science techniques to detect fraudulent credit card transactions. Given the high cost of undetected fraud and the business need for real-time risk assessment, we build and evaluate machine learning models capable of identifying anomalous transactions with high precision and recall.
